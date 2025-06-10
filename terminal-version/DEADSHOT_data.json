@@ -1,0 +1,29 @@
+{
+    "player_name": "DEADSHOT",
+    "level": 1,
+    "last_login": "2025-06-09",
+    "streak": 1,
+    "total_exp": 274,
+    "completed_tasks": {
+        "Easy": {
+            "Get Food": {
+                "count": 2,
+                "total_time": 60,
+                "last_completed": "2025-06-07"
+            },
+            "Go Shopping": {
+                "count": 1,
+                "total_time": 30,
+                "last_completed": "2025-06-09"
+            }
+        },
+        "Hard": {
+            "Finish Work": {
+                "count": 1,
+                "total_time": 60,
+                "last_completed": "2025-06-09"
+            }
+        }
+    },
+    "google_token": {}
+}
